@@ -1,0 +1,37 @@
+#navbar{
+    color: white;
+}
+nav{
+    background-color:#eb7f1a;
+}
+#search{
+    text-align: center;
+}
+#cadastro{
+    text-align: center;
+    width: 140px;
+    right: 80px;
+    background-color: #ffffff;
+    border-color: black;
+    margin-left: 50px;
+}
+#car{
+    border-radius: 50%;
+    background-color: #eb7f1a;
+    margin-left: 25px;
+}
+
+#carouselExampleAutoplaying{
+margin-top: 55px;
+margin-bottom: 1px;
+}
+
+#navegador{
+    background-color: rgb(247, 247, 232);
+}
+
+#moedas{
+    margin: 5%;
+    border-color:#ffffff;
+    border-radius: 20%;
+}
